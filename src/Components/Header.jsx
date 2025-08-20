@@ -4,7 +4,7 @@ const Header = () => {
       <header
         className="position-relative text-white text-center d-flex align-items-center justify-content-center"
         style={{
-          backgroundImage: "url('../../public/Header.jpg')",
+          backgroundImage: "url('/Header.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           minHeight: "80vh",
