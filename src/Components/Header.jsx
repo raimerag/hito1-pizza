@@ -1,4 +1,3 @@
-import x from "../../public/";
 const Header = () => {
   return (
     <>
